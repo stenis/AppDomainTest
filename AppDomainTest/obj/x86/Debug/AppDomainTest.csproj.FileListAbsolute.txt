@@ -8,3 +8,6 @@ C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\
 C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\bin\Debug\Plug.dll
 C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\bin\Debug\Interfaces.pdb
 C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\bin\Debug\Plug.pdb
+C:\Repos\AppDomainTest\AppDomainTest\bin\Debug\AppDomainTest.exe.config
+C:\Repos\AppDomainTest\AppDomainTest\obj\x86\Debug\AppDomainTest.exe
+C:\Repos\AppDomainTest\AppDomainTest\obj\x86\Debug\AppDomainTest.pdb
