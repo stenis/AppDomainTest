@@ -1,0 +1,7 @@
+C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Plug\bin\Debug\Plug.dll
+C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Plug\bin\Debug\Plug.pdb
+C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Plug\bin\Debug\Interfaces.dll
+C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Plug\bin\Debug\Interfaces.pdb
+C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Plug\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Plug\obj\Debug\Plug.dll
+C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Plug\obj\Debug\Plug.pdb

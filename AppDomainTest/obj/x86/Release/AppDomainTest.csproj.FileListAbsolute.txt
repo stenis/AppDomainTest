@@ -1,0 +1,6 @@
+c:\users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\bin\Release\AppDomainTest.exe
+c:\users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\bin\Release\AppDomainTest.pdb
+c:\users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\obj\x86\Release\AppDomainTest.exe
+c:\users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\obj\x86\Release\AppDomainTest.pdb
+c:\users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\bin\Release\AppDomainTest.exe.config
