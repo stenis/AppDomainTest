@@ -3,3 +3,8 @@ C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Interfaces\bin
 C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Interfaces\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Interfaces\obj\Debug\Interfaces.dll
 C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\Interfaces\obj\Debug\Interfaces.pdb
+C:\Stanne\AppDomainTest\Interfaces\bin\Debug\Interfaces.dll
+C:\Stanne\AppDomainTest\Interfaces\bin\Debug\Interfaces.pdb
+C:\Stanne\AppDomainTest\Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Stanne\AppDomainTest\Interfaces\obj\Debug\Interfaces.dll
+C:\Stanne\AppDomainTest\Interfaces\obj\Debug\Interfaces.pdb

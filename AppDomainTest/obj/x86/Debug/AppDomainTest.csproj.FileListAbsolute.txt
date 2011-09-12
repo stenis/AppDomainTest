@@ -11,3 +11,15 @@ C:\Users\stan\documents\visual studio 2010\Projects\AppDomainTest\AppDomainTest\
 C:\Repos\AppDomainTest\AppDomainTest\bin\Debug\AppDomainTest.exe.config
 C:\Repos\AppDomainTest\AppDomainTest\obj\x86\Debug\AppDomainTest.exe
 C:\Repos\AppDomainTest\AppDomainTest\obj\x86\Debug\AppDomainTest.pdb
+C:\Stanne\AppDomainTest\AppDomainTest\bin\Debug\AppDomainTest.exe.config
+C:\Stanne\AppDomainTest\AppDomainTest\obj\x86\Debug\AppDomainTest.exe
+C:\Stanne\AppDomainTest\AppDomainTest\obj\x86\Debug\AppDomainTest.pdb
+C:\Stanne\AppDomainTest\AppDomainTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Stanne\AppDomainTest\AppDomainTest\bin\Debug\AppDomainTest.exe
+C:\Stanne\AppDomainTest\AppDomainTest\bin\Debug\AppDomainTest.pdb
+C:\Stanne\AppDomainTest\AppDomainTest\bin\Debug\Interfaces.dll
+C:\Stanne\AppDomainTest\AppDomainTest\bin\Debug\Plug.dll
+C:\Stanne\AppDomainTest\AppDomainTest\bin\Debug\System.Reactive.dll
+C:\Stanne\AppDomainTest\AppDomainTest\bin\Debug\Interfaces.pdb
+C:\Stanne\AppDomainTest\AppDomainTest\bin\Debug\Plug.pdb
+C:\Stanne\AppDomainTest\AppDomainTest\bin\Debug\System.Reactive.xml
